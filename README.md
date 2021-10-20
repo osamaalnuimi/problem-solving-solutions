@@ -12,3 +12,6 @@ The goal of this repository is to collect and share all the answers that I had u
 | 8 | [Check If N and Its Double Exist](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3250/) | TypeScript | Easy
 | 9 | [Valid Mountain Array](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3251/) | TypeScript | Easy
 | 10 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3259/) | TypeScript | Easy
+| 11 | [Sort Array By Parity](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3260/) | TypeScript | Easy
+| 12 | [Height Checker](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/) | TypeScript | Easy
+| 13 | [Third Maximum Number](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3231/) | TypeScript | Easy
