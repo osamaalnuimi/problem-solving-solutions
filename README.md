@@ -18,13 +18,13 @@ The purpose of this repository is to provide solutions to various programming pr
 
 To use this repository, you'll need to have Git installed on your machine. To clone the repository, use the following command:<br />
 ```console
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/osamaalnuimi/problem-solving-solutions
 ```
 
 
 ## Problem Solutions
 
-| ID | Title | Platform | Difficulty | Language |
+| ID | Title | Platform | Language | Difficulty |
 |----|-------|----------|------------|----------|
 | 1 | [Max Consecutive Ones](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3238/) | LeetCode | C# | Easy
 | 2 | [Find Numbers with Even Number of Digits](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3237/)| LeetCode | C# | Easy
