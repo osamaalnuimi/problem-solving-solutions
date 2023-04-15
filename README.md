@@ -18,7 +18,7 @@ The purpose of this repository is to provide solutions to various programming pr
 
 To use this repository, you'll need to have Git installed on your machine. To clone the repository, use the following command:<br />
 ```console
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/osamaalnuimi/problem-solving-solutions
 ```
 
 
