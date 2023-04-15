@@ -39,6 +39,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 | 11 | [Sort Array By Parity](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3260/) | LeetCode | TypeScript | Easy
 | 12 | [Height Checker](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/) | LeetCode | TypeScript | Easy
 | 13 | [Third Maximum Number](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3231/) | LeetCode | TypeScript | Easy
+| 14 | [wo Sum](https://leetcode.com/problems/two-sum/description/) | LeetCode | C# | Easy
 
 ## Usage
 
