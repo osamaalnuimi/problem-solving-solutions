@@ -24,7 +24,7 @@ git clone https://github.com/your-username/your-repository.git
 
 ## Problem Solutions
 
-| ID | Title | Platform | Difficulty | Language |
+| ID | Title | Platform | Language | Difficulty |
 |----|-------|----------|------------|----------|
 | 1 | [Max Consecutive Ones](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3238/) | LeetCode | C# | Easy
 | 2 | [Find Numbers with Even Number of Digits](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3237/)| LeetCode | C# | Easy
