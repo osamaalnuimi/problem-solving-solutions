@@ -16,8 +16,10 @@ The purpose of this repository is to provide solutions to various programming pr
 
 ## Installation and Setup
 
-To use this repository, you'll need to have Git installed on your machine. To clone the repository, use the following command:
- git clone https://github.com/your-username/your-repository.git
+To use this repository, you'll need to have Git installed on your machine. To clone the repository, use the following command:<br />
+```console
+git clone https://github.com/your-username/your-repository.git
+```
 
 
 ## Problem Solutions
