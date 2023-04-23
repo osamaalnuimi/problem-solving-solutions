@@ -40,7 +40,8 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 | 12 | [Height Checker](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/) | LeetCode | TypeScript | Easy
 | 13 | [Third Maximum Number](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3231/) | LeetCode | TypeScript | Easy
 | 14 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | LeetCode | C# | Easy
-
+| 15 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | LeetCode | C# | Easy
+| 16 | [Roman To Int](https://leetcode.com/problems/roman-to-integer/description/) | LeetCode | C# | Easy
 ## Usage
 
 To use the solutions, simply navigate to the problem folder in the repository and select the programming language of your choice. Each file contains the implementation of the solution for the corresponding problem.
