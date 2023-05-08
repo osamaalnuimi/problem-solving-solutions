@@ -42,6 +42,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 | 14 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | LeetCode | C# | Easy
 | 15 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | LeetCode | C# | Easy
 | 16 | [Roman To Int](https://leetcode.com/problems/roman-to-integer/description/) | LeetCode | C# | Easy
+| 17 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | LeetCode | C# | Easy
 ## Usage
 
 To use the solutions, simply navigate to the problem folder in the repository and select the programming language of your choice. Each file contains the implementation of the solution for the corresponding problem.
