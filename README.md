@@ -44,6 +44,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 | 16 | [Roman To Int](https://leetcode.com/problems/roman-to-integer/description/) | LeetCode | C# | Easy
 | 17 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | LeetCode | C# | Easy
 | 18 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | LeetCode | C# | Easy
+| 19 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/952292886/) | LeetCode | C# | Easy
 ## Usage
 
 To use the solutions, simply navigate to the problem folder in the repository and select the programming language of your choice. Each file contains the implementation of the solution for the corresponding problem.
