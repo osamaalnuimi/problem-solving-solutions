@@ -48,6 +48,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 | 20 | [Plus One](https://leetcode.com/problems/plus-one/description/) | LeetCode | C# | Easy
 | 21 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | LeetCode | C# | Easy
 | 22 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | LeetCode | C# | Easy
+| 23 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | LeetCode | C# | Easy
 ## Usage
 
 To use the solutions, simply navigate to the problem folder in the repository and select the programming language of your choice. Each file contains the implementation of the solution for the corresponding problem.
