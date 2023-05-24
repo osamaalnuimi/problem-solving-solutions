@@ -50,6 +50,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 | 22 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | LeetCode | C# | Easy
 | 23 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | LeetCode | C# | Easy
 | 24 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | LeetCode | C# | Easy
+| 25 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | LeetCode | C# | Easy
 ## Usage
 
 To use the solutions, simply navigate to the problem folder in the repository and select the programming language of your choice. Each file contains the implementation of the solution for the corresponding problem.
