@@ -53,6 +53,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 | 25 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | LeetCode | C# | Easy
 | 26 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode | C# | Easy
 | 27 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | LeetCode | C# | Easy
+| 28 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) | LeetCode | C# | Easy
 
 ## Usage
 
