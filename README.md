@@ -57,6 +57,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 | 29 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | LeetCode | C# | Easy
 |30 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | LeetCode | C# | Easy
 |31 | [ Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | LeetCode | C# | Easy
+|31 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | LeetCode | C# | Easy
 ## Usage
 
 To use the solutions, simply navigate to the problem folder in the repository and select the programming language of your choice. Each file contains the implementation of the solution for the corresponding problem.
