@@ -55,6 +55,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 | 27 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | LeetCode | C# | Easy
 | 28 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) | LeetCode | C# | Easy
 | 29 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | LeetCode | C# | Easy
+|30 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | LeetCode | C# | Easy
 ## Usage
 
 To use the solutions, simply navigate to the problem folder in the repository and select the programming language of your choice. Each file contains the implementation of the solution for the corresponding problem.
