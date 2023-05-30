@@ -61,6 +61,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 |32 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | LeetCode | C# | Easy
 |33 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LeetCode | C# | Easy
 |34 | [Move Zeroes ](https://leetcode.com/problems/move-zeroes/) | LeetCode | TypeScript | Easy
+|35 | [Find the Index of the First Occurrence in a String ](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | LeetCode | C# | Easy
 ## Usage
 
 To use the solutions, simply navigate to the problem folder in the repository and select the programming language of your choice. Each file contains the implementation of the solution for the corresponding problem.
