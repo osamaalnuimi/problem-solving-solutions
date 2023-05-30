@@ -60,6 +60,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 |31 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | LeetCode | C# | Easy
 |32 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | LeetCode | C# | Easy
 |33 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LeetCode | C# | Easy
+|34 | [Move Zeroes ](https://leetcode.com/problems/move-zeroes/) | LeetCode | TypeScript | Easy
 ## Usage
 
 To use the solutions, simply navigate to the problem folder in the repository and select the programming language of your choice. Each file contains the implementation of the solution for the corresponding problem.
