@@ -63,6 +63,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 |34 | [Move Zeroes ](https://leetcode.com/problems/move-zeroes/) | LeetCode | TypeScript | Easy
 |35 | [Find the Index of the First Occurrence in a String ](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | LeetCode | C# | Easy
 |36 | [ Range Sum Query - Immutable ](https://leetcode.com/problems/range-sum-query-immutable/description/) | LeetCode | C# | Easy
+|36 | [ Group Anagrams ](https://leetcode.com/problems/group-anagrams/description/) | LeetCode | C# | Medium
 ## Usage
 
 To use the solutions, simply navigate to the problem folder in the repository and select the programming language of your choice. Each file contains the implementation of the solution for the corresponding problem.
