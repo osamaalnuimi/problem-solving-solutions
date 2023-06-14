@@ -30,4 +30,22 @@ public class Solution {
         return true;
     }
     
+    public bool IsAnagram_Optimization_2(string s, string t) {
+        if (s == t) return true;
+        if (t.Length != s.Length) return false;
+
+
+        char[] sChars = new char[26];
+        char[] tChars = new char[26];
+
+        foreach (char c in s)
+        {
+            sChars[c - 'a']++;
+        }
+        foreach(char c in t)
+        {
+            tChars[c - 'a']++;
+        }
+        return  sChars.SequenceEqual(tChars);
+    }
 }
