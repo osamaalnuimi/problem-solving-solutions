@@ -65,6 +65,8 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 |36 | [ Range Sum Query - Immutable ](https://leetcode.com/problems/range-sum-query-immutable/description/) | LeetCode | C# | Easy
 |37 | [ Group Anagrams ](https://leetcode.com/problems/group-anagrams/description/) | LeetCode | C# | Medium
 |38 | [ Top K Frequent Elements ](https://leetcode.com/problems/top-k-frequent-elements/description/) | LeetCode | C# | Medium
+|39 | [ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | LeetCode | C# | Medium
+|40 | [ Valid Sudoku ](https://leetcode.com/problems/valid-sudoku/description/) | LeetCode | C# | Medium
 ## Usage
 
 To use the solutions, simply navigate to the problem folder in the repository and select the programming language of your choice. Each file contains the implementation of the solution for the corresponding problem.
