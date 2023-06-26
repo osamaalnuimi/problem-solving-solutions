@@ -67,7 +67,9 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 |38 | [ Top K Frequent Elements ](https://leetcode.com/problems/top-k-frequent-elements/description/) | LeetCode | C# | Medium
 |39 | [ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | LeetCode | C# | Medium
 |40 | [ Valid Sudoku ](https://leetcode.com/problems/valid-sudoku/description/) | LeetCode | C# | Medium
-|40 | [ Longest Consecutive Sequence ](https://leetcode.com/problems/longest-consecutive-sequence/description/) | LeetCode | C# | Medium
+|41 | [ Longest Consecutive Sequence ](https://leetcode.com/problems/longest-consecutive-sequence/description/) | LeetCode | C# | Medium
+|42 | [ Design Parking System ](https://leetcode.com/problems/design-parking-system/description/) | LeetCode | C# | Easy
+
 ## Usage
 
 To use the solutions, simply navigate to the problem folder in the repository and select the programming language of your choice. Each file contains the implementation of the solution for the corresponding problem.
