@@ -69,6 +69,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 |40 | [ Valid Sudoku ](https://leetcode.com/problems/valid-sudoku/description/) | LeetCode | C# | Medium
 |41 | [ Longest Consecutive Sequence ](https://leetcode.com/problems/longest-consecutive-sequence/description/) | LeetCode | C# | Medium
 |42 | [ Design Parking System ](https://leetcode.com/problems/design-parking-system/description/) | LeetCode | C# | Easy
+|43 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | LeetCode | C# | Easy
 
 ## Usage
 
