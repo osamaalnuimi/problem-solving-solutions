@@ -72,6 +72,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 |43 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | LeetCode | C# | Easy
 |44 | [Next Greater Element I ](https://leetcode.com/problems/next-greater-element-i/description/) | LeetCode | C# | Easy
 |45 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | LeetCode | C# | Easy
+|46 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | LeetCode | C# | Easy
 
 ## Usage
 
