@@ -76,7 +76,8 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 |47 | [Valid Palindrome II ](https://leetcode.com/problems/valid-anagram/description/) | LeetCode | C# | Easy
 |48 | [Minimum Difference Between Highest and Lowest of K Scores ](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | LeetCode | C# | Easy
 |49 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) | LeetCode | C# | Easy
-|49 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | LeetCode | C# | Easy
+|50 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | LeetCode | C# | Easy
+|51 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | LeetCode | C# | Easy
 
 ## Usage
 
