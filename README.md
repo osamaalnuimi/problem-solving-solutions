@@ -78,6 +78,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 |49 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) | LeetCode | C# | Easy
 |50 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | LeetCode | C# | Easy
 |51 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | LeetCode | C# | Easy
+|52 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | LeetCode | C# | Medium
 
 ## Usage
 
