@@ -1,26 +1,33 @@
 public class Solution {
     public int RemoveElement(int[] nums, int val) {
-         int n = nums.Length;
-            int pointer = 0;
-            while( pointer < n)
+        int count = 0;
+
+        for (int i = 0; i < nums.Length; i++) {
+            if (nums[i] != val)
             {
-                if (nums[pointer] == val)
-                {
-                    
-                    
-                    nums[pointer] = nums[n -1];
-                    n--;
-                }
-                else
-                {
-                    pointer++;
-                }
-
-
+                nums[count] = nums[i];
+                count++;
             }
+        }
+        return count;
+    }
+}
 
-            //Console.WriteLine("[{0}]", string.Join(", ", nums));
-            
-            return n;
+// another solution 
+
+public class Solution {
+    public int RemoveElement(int[] nums, int val) {
+        int count = 0;
+
+        for (int i = nums.Length-1; i >=0; i--) {
+            if (nums[i] == val)
+            {
+                var temp = nums[nums.Length-1 - count];
+                nums[nums.Length - 1 - count] = nums[i];
+                nums[i] = temp;
+                count++;
+            }
+        }
+        return (nums.Length - count);
     }
 }
