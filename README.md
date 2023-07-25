@@ -79,6 +79,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 |50 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | LeetCode | C# | Easy
 |51 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | LeetCode | C# | Easy
 |52 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | LeetCode | C# | Medium
+|53 | [Brick Wall](https://leetcode.com/problems/brick-wall/description/) | LeetCode | C# | Medium
 
 ## Usage
 
