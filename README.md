@@ -80,6 +80,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 |51 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | LeetCode | C# | Easy
 |52 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | LeetCode | C# | Medium
 |53 | [Brick Wall](https://leetcode.com/problems/brick-wall/description/) | LeetCode | C# | Medium
+|53 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | LeetCode | C# | Easy
 
 ## Usage
 
