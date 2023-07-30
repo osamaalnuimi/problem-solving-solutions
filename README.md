@@ -83,6 +83,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 |53 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | LeetCode | C# | Easy
 |54 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) | LeetCode | C# | Medium
 |55 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | LeetCode | C# | Medium
+|56 | [Container With Most Water ](https://leetcode.com/problems/container-with-most-water/description/) | LeetCode | C# | Medium
 
 ## Usage
 
