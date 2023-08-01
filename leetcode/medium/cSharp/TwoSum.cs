@@ -5,13 +5,8 @@ public class Solution
         int right = numbers.Length - 1;
         int left = 0;
 
-        while (left < right)
+        while (numbers[left] + numbers[right] != target)
         {
-            if (numbers[left] + numbers[right] == target)
-            {
-                return new int[] { left + 1, right + 1 };
-            }
-
             if (numbers[left] + numbers[right] > target)
             {
                 right--;
@@ -21,6 +16,6 @@ public class Solution
                 left++;
             }
         }
-        return new int[] { 0, 0 };
+        return new int[] { left + 1, right + 1 };
     }
 }
