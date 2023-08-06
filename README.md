@@ -86,6 +86,7 @@ git clone https://github.com/osamaalnuimi/problem-solving-solutions
 |56 | [Container With Most Water ](https://leetcode.com/problems/container-with-most-water/description/) | LeetCode | C# | Medium
 |57 | [Two Sum II - Input Array Is Sorted ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | LeetCode | C# | Medium
 |58 | [3Sum](https://leetcode.com/problems/3sum/description/) | LeetCode | C# | Medium
+|59 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | LeetCode | C# | Medium
 
 ## Usage
 
